@@ -1,0 +1,1 @@
+mu_0	sigma_0	logL
